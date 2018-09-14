@@ -1,3 +1,7 @@
+/*
+** Javascript implementation of Sudoku
+** Niclas Kjäll-Ohlsson, copyright 2017
+*/
 var Sudoku = function(domainSize) {
 	var board;
 	
